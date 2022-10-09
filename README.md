@@ -15,4 +15,5 @@ Main structures:
 - Using Wordcloud to find out factors appear a lot when customers review between listings with high and low ratings.
 - Analyze the following 3 factors to see insights about how those factors affect the rating: location, amenities and host.
 - Propose solutions to improve customer satisfaction.
+
 Link to my presentation [here](https://docs.google.com/presentation/d/1spQWL8h24nCAlXWGM2dSVDJaRbrXB4YL/edit#slide=id.p3)
