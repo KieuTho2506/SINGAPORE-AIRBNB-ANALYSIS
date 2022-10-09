@@ -1,9 +1,9 @@
 # SINGAPORE-AIRBNB-ANALYSIS
 The data is soured from the Inside Airbnb website: http://insideairbnb.com/get-the-data/ which hosts publicly available data from Airbnb site. The data set comprises of four main tables but I will use two tables below for this analysis project:
 
-Detailed listings data.
+- Detailed listings data.
 
-Detailed reviews
+- Detailed reviews
 
 Our target audience we toward to are: People, who want to be a prospective Airbnb host in Singapore.
 
