@@ -10,7 +10,9 @@ Our target audience we toward to are: People, who want to be a prospective Airbn
 Through my analysis, I will answer the big questions: "How to become a successful host?"
 
 The key to become successful is : review_score_rating
+
 => In this article, I will compare the reviews between listings with high rating (review_socre 5.0) and listings with low rating(review_score <=2.0) to answer the question: "What factors affect the rating and how to get a high rating?"
+
 Main structures:
 - Using Wordcloud to find out factors appear a lot when customers review between listings with high and low ratings.
 - Analyze the following 3 factors to see insights about how those factors affect the rating: location, amenities and host.
